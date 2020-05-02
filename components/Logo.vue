@@ -23,6 +23,12 @@
     </g>
   </svg>
 </template>
+
+<!-- import 先でエラーになるので入れておく -->
+<script lang="ts">
+export default {}
+</script>
+
 <style>
 .NuxtLogo {
   animation: 1s appear;
