@@ -6,7 +6,7 @@
         nuxt-sample
       </h1>
       <h2 class="subtitle">
-        This is a nuxt-typescript-project.
+        これはnuxtのテストです。netlify にデプロイしたよ。
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
