@@ -1,4 +1,5 @@
-# nuxt-sample
+# nuxt-site
+https://heuristic-pasteur-1df946.netlify.app/
 
 > This is a nuxt-typescript-project.
 
